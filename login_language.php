@@ -31,7 +31,7 @@
  
 class login_language extends rcube_plugin
 {
-  public $task = 'login';
+  public $task = 'login|logout';
 
   function init()
   {
