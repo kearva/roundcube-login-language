@@ -9,7 +9,7 @@ Plugin to let the user select language before login. It is also posible to set t
 * Add login_language to the list of plugins in your config file.
 
 ```php
-$rcmail_config['plugins'] = array('yubikey_authentication');
+$rcmail_config['plugins'] = array('login_language');
 ```
 
 ## License
